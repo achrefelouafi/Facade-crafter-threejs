@@ -2005,7 +2005,7 @@ function buildSoffitPatch(
 }
 
 /**
- * Generates the complete, 100% dynamic VolumeCraft Shopfront PBR scene from any MassingState.
+ * Generates the complete, 100% dynamic Facade Crafter PBR scene from any MassingState.
  */
 export function generateShopfrontScene(
   state: MassingState,

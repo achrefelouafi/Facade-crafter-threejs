@@ -17,10 +17,10 @@ import {
 
 export const PROJECT_CONFIG: ProjectConfig = {
   id: '08-facade-craft',
-  name: 'VolumeCraft Shopfront',
+  name: 'Facade Crafter',
   subtitle: 'Boutique Storefront & Café Studio',
   rightBadgeSub: 'Boutique Facade & Café PBR',
-  repoSlug: 'VolumeCraft-Shopfront',
+  repoSlug: 'Facade-crafter-threejs',
   scale: {
     verticalSnap: 3.4,
     horizontalSnap: 1.5,
