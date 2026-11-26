@@ -4,6 +4,8 @@
 
 Sketch a building as simple boxes on the left, and see it turned into a fully detailed storefront on the right in real time, with awnings, vitrines, balconies, terrace tables, signage and PBR materials.
 
+**Repository:** [github.com/achrefelouafi/Facade-crafter-threejs](https://github.com/achrefelouafi/Facade-crafter-threejs)
+
 ![Facade Crafter — Paris Café preset](docs/screenshots/paris-cafe.png)
 
 ## Features
@@ -30,6 +32,8 @@ Sketch a building as simple boxes on the left, and see it turned into a fully de
 Requires Node.js 18+ and a browser with WebGPU support (recent Chrome or Edge).
 
 ```bash
+git clone https://github.com/achrefelouafi/Facade-crafter-threejs.git
+cd Facade-crafter-threejs
 npm install
 npm run dev
 ```
